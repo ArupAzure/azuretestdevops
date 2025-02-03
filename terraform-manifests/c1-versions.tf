@@ -37,3 +37,4 @@ provider "azurerm" {
 #simple command 5
 #simple command 6
 #simple command 9
+#simple command 10
