@@ -1,6 +1,6 @@
 # Terraform Block
 terraform {
-  required_version = "4.17.0"
+  #required_version = "4.17.0"
   required_providers {
     azurerm = {
       source = "hashicorp/azurerm"
@@ -34,3 +34,5 @@ provider "azurerm" {
 #Simple command 2
 #simple command 3
 #simple command 4
+#simple command 5
+#simple command 6
